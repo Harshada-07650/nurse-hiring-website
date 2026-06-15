@@ -1,15 +1,41 @@
-# Nurse Hiring Website 👩‍⚕️
+# 👩‍⚕️ Nurse Hiring Website
 
-This is a simple nurse hiring website project.
+A simple and responsive Nurse Hiring Website built using HTML and CSS, and deployed using AWS S3.
+
+---
 
 ## 🔧 Technologies Used
 - HTML
 - CSS
+- AWS S3 (Static Website Hosting)
+- GitHub
 
-## 🌐 Features
-- User-friendly interface
-- Service information display
+---
+
+## 🌐 Live Demo
+🔗 **Live Website:**  
+https://nurse-hiring-site-2026.s3.ap-south-1.amazonaws.com/index.html
+
+---
+
+## 💻 Source Code
+🔗 **GitHub Repository:**  
+https://github.com/YOUR-USERNAME/nurse-hiring-website
+
+---
+
+## ✨ Features
+- Responsive and clean UI
+- Service sections (Home Care, Elderly Care, Medical Support)
 - Contact section
+- Simple and user-friendly design
 
-## 🚀 Project Goal
-To create a platform where users can easily connect with nurses.
+---
+
+## 🚀 Project Purpose
+This project was built to practice web development and cloud deployment using AWS S3.
+
+---
+
+## 👩‍💻 Author
+Harshada
